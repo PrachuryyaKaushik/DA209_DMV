@@ -8,5 +8,6 @@ Week 4: [Distributions, Histograms, Density Plots, Box Plots & Violin Plots](htt
 Week 5: [Ridgeline Plot, Pie Chart & Treemap](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk5_Ridgeline_PieChart_TreeMap.ipynb)<br>
 Week 6: [Mosaic Plot, Treemaps, Sunburst plot & Parallel Sets](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk6_Mosaic_Treemap_Sunburst.ipynb)<br>
 Week 7: [Scatter, Bubble plot, Slopegraphs, PCA](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk7_Scatter_Bubble_Slopegraph_PCA.ipynb)<br>
+Week 8: [Time Series plots](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk8_Time_Series_plots.ipynb)<br>
 <br>
 For datasets used, check the [github page](https://github.com/PrachuryyaKaushik/DA209_DMV)<br>
