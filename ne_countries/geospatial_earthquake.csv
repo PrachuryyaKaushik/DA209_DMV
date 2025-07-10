@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-24T02:45:43.620Z,19.2245,-68.1103,68,5.7,mw,26,189,0.7606,0.62,pr,pr2025175000,2025-06-25T05:45:04.951Z,"77 km NNE of Punta Cana, Dominican Republic",earthquake,2.52,5.97,0.02,8,reviewed,pr,pr
+2025-06-15T16:35:30.681Z,-12.1473,-77.3152,53.485,5.6,mww,63,145,0.489,0.97,us,us6000qkg7,2025-06-24T10:29:18.489Z,"23 km WSW of Callao, Peru",earthquake,8.55,7.765,0.075,17,reviewed,us,us
+2025-06-08T13:08:05.861Z,4.512,-73.1553,9,6.3,mww,158,39,1.208,0.9,us,us6000qixr,2025-06-11T20:06:49.348Z,"16 km NNE of Paratebueno, Colombia",earthquake,6.37,1.815,0.032,96,reviewed,us,us
+2025-06-06T17:15:06.906Z,-26.6404,-70.4136,75,6.4,mww,317,16,0.518,0.69,us,us6000qigd,2025-06-10T00:18:11.455Z,"45 km SW of Diego de Almagro, Chile",earthquake,6.02,1.786,0.036,73,reviewed,us,us
+2025-06-02T23:17:28.248Z,36.7241,28.1869,72.286,5.8,mww,139,29,0.512,0.68,us,us6000qhiq,2025-06-24T21:43:50.730Z,"8 km SSW of İçmeler, Turkey",earthquake,5.35,5.649,0.031,103,reviewed,us,us
+2025-05-31T22:26:22.511Z,-27.8236,-178.0952,10,6.3,mww,65,56,1.424,0.8,us,us6000qh5j,2025-06-24T01:38:48.349Z,"Kermadec Islands region",earthquake,11.66,1.81,0.047,44,reviewed,us,us
