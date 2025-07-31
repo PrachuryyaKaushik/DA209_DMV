@@ -11,5 +11,6 @@ Week 7: [Scatter, Bubble plot, Slopegraphs, PCA](https://github.com/PrachuryyaKa
 Week 8: [Time Series plots](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk8_Time_Series_plots.ipynb)<br>
 Week 9: [GeoSpatial plots](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk9_GeoSpatial_plots.ipynb)<br>
 Week 11: [Radar Charts, Matrix Plots, Waffle Charts, and Steam Graph](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk11_Radar_Matrix_Waffle.ipynb)<br>
+Week 12: [Jittering, Contour plots, Word Cloud](https://github.com/PrachuryyaKaushik/DA209_DMV/blob/main/DA209_DMV_wk12_Jittering_Contour_Word_Cloud.ipynb)<br>
 <br>
 For datasets used, check the [github page](https://github.com/PrachuryyaKaushik/DA209_DMV)<br>
